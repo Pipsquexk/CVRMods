@@ -8,4 +8,4 @@ Just a collection of mods I have created for ChilloutVR
 
 Adds various buttons for cache management to the bottom of the "implementations" tab in your settings menu.
 
-![image](https://user-images.githubusercontent.com/25568473/188854630-75da55cb-3e29-403e-bb39-a6e79e025428.png)
+![image](https://user-images.githubusercontent.com/25568473/189505630-0be72030-8f77-4321-ad77-79077865a8d0.png)
