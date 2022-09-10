@@ -64,7 +64,7 @@ namespace EZCache
 
             <div class=""settings-subcategory"">
                 <div class=""subcategory-name"">EZCache</div>
-                <div class=""subcategory-description"">Sex</div>
+                <div class=""subcategory-description"">Easy cache management brought to you by Pipsquexk (Pip#0002)</div>
             </div>
 
             <div class=""row-wrapper"">
